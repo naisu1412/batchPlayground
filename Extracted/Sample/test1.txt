@@ -1,0 +1,41 @@
+Troubleshooting for Clip Studio Paint
+
+If you are struggling to import them please try the following steps:
+
+1) Please make sure you have unzipped/extracted the files. They will
+not load in if they have not been unzipped/extracted. If you don't
+know how to do this, please search methods on Youtube, its quite
+easy! 
+
+2) Please make sure you are dragging in the .sut brush files, NOT
+the folder itself. Try dragging a single .sut brush file in.
+
+3) Please make sure your CSP is up to date; head over to the website
+and check which version of clip studio paint is most recent. Please
+update to that version.
+
+4) If you're on an iPad, I've heard you have to load the files in one
+by one via your files or a Dropbox/Google drive directory. This
+may take some time. Please also double check you have unzipped the files.
+
+5) If all of this fails, please send an email detailing your problem,
+with screenshots if possible, to devinellekurtz@gmail.com. Please let me
+know that you have tried the steps above. I will do my best to help as many
+people as I can, but I may not be able to individually assist everyone.
+Twitter is an excellent place to ask for brush related help, as is
+Reddit!
+
+
+If you are struggling with controlling the brushes:
+
+1) Please watch the included demo video
+
+2) The evergreen trees and plant stalks are intended to be used in
+"upward or downward" strokes, rather than side to side. You can
+of course edit these brushes to your liking.
+
+3) Please play around with the "ink" and "blend with sub color"
+settings if you're having difficulty with the color and blending.
+I've set these brushes up how I would use them, but feel free to
+edit anything to your liking! The demo video shows how to turn
+off and on various settings.
