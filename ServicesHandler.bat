@@ -20,6 +20,7 @@ if defined services[%x%] (
       echo ------------------- End of Status -------------------
       echo .
       echo .
+      echo .
    )
  
    
