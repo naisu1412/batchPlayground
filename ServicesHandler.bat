@@ -13,7 +13,7 @@ if defined services[%x%] (
    @echo off
    call sc %MODE% %%services[%x%]%%
 
-   if %MODE% NEQ query (
+   if %MODE% NEQ query ( ]]
       timeout /t 5
       echo ------------------- Showing status after 5 seconds -------------------
       call sc query %%services[%x%]%%
